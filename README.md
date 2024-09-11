@@ -15,7 +15,7 @@
 <br/>  
 
 
-## My Porttfolio
+## My Portfolio
 <a href="https://www.leonardopadilha.dev/" target="_blank"> CLICK HERE TO ACCESS :) </a>  
 
 
