@@ -2,7 +2,7 @@
 
 <!--
 **LeoCoelhoP/LeoCoelhoP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<img align="right" alt="Coding" width="400" src="/banner.jpg">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 Here are some ideas to get you started:
