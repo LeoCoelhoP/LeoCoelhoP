@@ -15,12 +15,6 @@
 <br/>  
 
 
-## My Portfolio
-<a href="https://www.leonardopadilha.dev/" target="_blank"> CLICK HERE TO ACCESS :) </a>  
-
-
-<br/>  
-
 
 ## My Skill Set  
 <div style="display: flex; flex-direction: column; align-items: center;">
